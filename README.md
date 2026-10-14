@@ -11,8 +11,7 @@ Welcome to my **tech-forward portfolio** showcasing my journey as a
 **Headline:** *Mohd Anas — Computer Science Student & Full-Stack Web Developer*  
 **Subheadline:** *Final-year B.Tech CS student specializing in DSA, OOP, and end-to-end web engineering.*  
 
-🔗 Quick Links:  
-- [GitHub](https://github.com/mohdanas-hash)  
+🔗 Quick Links:    
 - [LinkedIn](https://www.linkedin.com/in/mohd-anas-64a1312a3/)  
 - [LeetCode](https://leetcode.com/Anas_69/)  
 
@@ -92,8 +91,7 @@ My core strengths include:
 📍 Location: **Kanpur, Uttar Pradesh**  
 
 🌐 Socials:  
-- [LinkedIn](https://www.linkedin.com/in/mohd-anas-64a1312a3/)  
-- [GitHub](https://github.com/mohdanas-hash)  
+- [LinkedIn](https://www.linkedin.com/in/mohd-anas-64a1312a3/)   
 - [LeetCode](https://leetcode.com/Anas_69/)  
 - [HackerRank](https://www.hackerrank.com/)  
 - [Codolio](https://codolio.com/)  
